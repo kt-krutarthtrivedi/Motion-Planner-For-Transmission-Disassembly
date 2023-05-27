@@ -5,7 +5,7 @@ Given an idealized representation of the transmission, in a state with the beari
 
 ## About the environment
 
-A simplified model of the SM-465 transmission is shown in the figure below. Included in this model is the case, with PTO ports and bearing bores, plus mainshaft and countershaft assemblies. Refer to the OpenSCAD files attached to this repository for the exact models of the constituent parts.
+A simplified model of the SM-465 transmission is shown in the figure below. Included in this model is the case, with PTO ports and bearing bores, plus mainshaft and countershaft assemblies. Refer to the [OpenSCAD files](https://github.com/kt-krutarthtrivedi/Motion-Planner-For-Transmission-Disassembly/tree/main/media/SM-465%20Transmission) attached to this repository for the exact models of the constituent parts.
 
 
 - A simplified model
